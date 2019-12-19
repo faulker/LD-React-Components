@@ -114,7 +114,7 @@
     "prop-types": "^15.7.2"
   },
   "peerDependencies": {
-    "eslint-plugin-react-hooks": "^1.7.0",
+    "eslint-plugin-react-hooks": "^2.3.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   }
